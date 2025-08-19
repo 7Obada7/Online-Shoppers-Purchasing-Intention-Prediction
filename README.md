@@ -55,4 +55,4 @@ Key steps:
 
 ## 🙏 Acknowledgments
 - Dataset: [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/ml/datasets/online+shoppers+purchasing+intention+dataset)  
-- Project developed as part of a university Data Analysis / Machine Learning course.  
+- Project developed as part of a university Introduction to Data Science course.  
